@@ -29,7 +29,11 @@ This Python script automatically detects when an external storage device (like a
 You can run the script in a local environment or Jupyter. Make sure the required libraries are installed.
 
 The script will start monitoring for new storage device connections and will copy the most recent files (from the current day) when a new device is detected.
+
+
 ////
+
+
 📂 USB Auto-Copy Script
 
 Este script en Python detecta automáticamente cuando se conecta una unidad de almacenamiento extraíble (como USB o SD) y copia los archivos más recientes (del día actual) a una carpeta en tu escritorio. ¡Es ideal para fotógrafos, editores o cualquier persona que trabaje con archivos desde unidades externas!
